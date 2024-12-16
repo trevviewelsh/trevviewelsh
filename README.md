@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there, I'm Trevor Welsh, trying out github for the first time!
 
 <!--
 **trevviewelsh/trevviewelsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
